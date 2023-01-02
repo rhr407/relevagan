@@ -1,6 +1,6 @@
 # Evasion Generative Adversarial Network
 
-![](EVAGAN.svg "EVAGAN Architecture")
+![](RELEVAGAN.svg "RELEVAGAN Architecture")
 
 
 ## Prerequisites
@@ -12,15 +12,27 @@
 
 ## Cite this Work
 ```
-Randhawa, Rizwan Hamid, et al. "EVAGAN: Evasion Generative Adversarial Network for Low Data Regimes." arXiv preprint arXiv:2109.08026 (2021)
+Randhawa, Rizwan Hamid, et al. "Deep Reinforcement Learning based Evasion Generative Adversarial Network for Botnet Detection." arXiv preprint arXiv:2210.02840 (2022).
 ```
 ### Bibtex
 ```
-@article{randhawa2021evagan,
-  title={EVAGAN: Evasion Generative Adversarial Network for Low Data Regimes},
-  author={Randhawa, Rizwan Hamid and Aslam, Nauman and Alauthman, Muhammad and Rafiq, Husnain and Khalid, Muhammad},
-  journal={arXiv preprint arXiv:2109.08026},
-  year={2021}
+@misc{https://doi.org/10.48550/arxiv.2210.02840,
+  doi = {10.48550/ARXIV.2210.02840},
+  
+  url = {https://arxiv.org/abs/2210.02840},
+  
+  author = {Randhawa, Rizwan Hamid and Aslam, Nauman and Alauthman, Mohammad and Khalid, Muhammad and Rafiq, Husnain},
+  
+  keywords = {Cryptography and Security (cs.CR), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Deep Reinforcement Learning based Evasion Generative Adversarial Network for Botnet Detection},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }
+
 
 ```
