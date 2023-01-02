@@ -13,6 +13,14 @@ Botnet detectors based on machine learning are potential targets for adversarial
 * Numpy
 * For the rest of the packages please refer to header.py file inside the project directory.
 
+## Manuscript
+
+Full text manuscript can be found [here](https://arxiv.org/abs/2210.02840).
+
+## Dataset
+
+The preprocessed datasets can be downloaded from [here](https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing).
+
 
 ## Cite this Work
 ```
